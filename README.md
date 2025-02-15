@@ -1,13 +1,26 @@
 # medallion-architecture-databrics
 
-This notebook contains data transformations in the Medallion architectureTo Open the Notebook:
+This notebook contains data transformations in the Medallion architecture
 
-## Databricks Workspace:
+## To Open the Notebook:
+
+###  Databricks Workspace:
 - Navigate to your Databricks workspace.
 - Click on "Import" in the workspace toolbar.
 - Select "File" and upload the .dbc file "Medallion Layer 2025-02-15 15_16_42.dbc".
 - After the import process, the notebook should appear in your workspace under the name you specified or a default name if not specified..
 
+### Demo
+
+<p align="center">
+  <a href="https://blog.santoshshinde.com/medallion-architecture-principles-and-practical-exploration-425834ae3bc7?sk=15e61bee6db6161b1f00fdfdc5aaff7d">
+     <img src="wiki/demo.gif" alt="demo" />
+  </a>
+</p>
+
+### Tutorials 
+
+- [Medallion Architecture: Principles and Practical Exploration](https://blog.santoshshinde.com/medallion-architecture-principles-and-practical-exploration-425834ae3bc7?sk=15e61bee6db6161b1f00fdfdc5aaff7d)
 
 <hr/>
 
